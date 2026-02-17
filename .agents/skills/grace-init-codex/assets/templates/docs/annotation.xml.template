@@ -1,0 +1,5 @@
+<annotation>
+  <project>$PROJECT_NAME</project>
+  <summary>$ANNOTATION</summary>
+  <keywords>$KEYWORDS</keywords>
+</annotation>

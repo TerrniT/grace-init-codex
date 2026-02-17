@@ -1,0 +1,13 @@
+# AGENTS.md
+
+Follow GRACE protocol for this repository.
+
+## Keywords
+$KEYWORDS
+
+## Annotation
+$ANNOTATION
+
+## Rules
+- Treat docs under `docs/` as source-of-truth process artifacts.
+- Keep contract and graph documents aligned with implementation updates.

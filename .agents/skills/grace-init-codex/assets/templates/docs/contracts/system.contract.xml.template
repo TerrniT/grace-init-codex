@@ -1,0 +1,8 @@
+<contract>
+  <name>$PROJECT_NAME system contract</name>
+  <owner>$OWNER</owner>
+  <scope>$DOMAIN</scope>
+  <requirements>
+    <requirement id="R1">Follow GRACE protocol files.</requirement>
+  </requirements>
+</contract>
