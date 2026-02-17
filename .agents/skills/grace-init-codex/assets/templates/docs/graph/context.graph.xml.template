@@ -1,0 +1,7 @@
+<graph>
+  <project>$PROJECT_NAME</project>
+  <domain>$DOMAIN</domain>
+  <nodes>
+    <node id="root" label="$PROJECT_NAME" />
+  </nodes>
+</graph>

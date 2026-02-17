@@ -1,0 +1,22 @@
+# GRACE Framework — Project Engineering Protocol
+
+## Keywords
+$KEYWORDS
+
+## Annotation
+$ANNOTATION
+
+## Core Principles
+1. Semantic Markup First
+2. Knowledge Graph Driven Context
+3. Contract-Driven Development
+4. Unique Tag Convention
+
+## Project Metadata
+- Project Name: $PROJECT_NAME
+- Domain: $DOMAIN
+- Owner: $OWNER
+
+## Implementation Notes
+- Keep docs and code synchronized.
+- Use XML artifacts under `docs/` as canonical protocol records.
